@@ -12,7 +12,7 @@ Pre-requisites-
  - [x] POST /blog (writing data)
  - [x] GET /blogs (read all the blogs)
  - [x] Test locally
- - [x] Deploy to Now (remember to create your secret!)
+ - [x] Deploy to Now. Remember to create your secret! [now secret add secretName secretURL]
 
 **Mongoose** is an Object Data Modeling (ODM) library for **MongoDB** and Node. js.
 
